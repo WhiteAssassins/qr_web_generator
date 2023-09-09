@@ -1,0 +1,14 @@
+{
+    "nombre": "Generador de Códigos QR",
+    "descripcion": "Una aplicación web que permite generar códigos QR personalizados utilizando HTML, CSS y JavaScript.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Herramientas", "Códigos QR"],
+    "etiquetas": ["Web", "QR", "Generador", "HTML5", "CSS3", "JavaScript"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}

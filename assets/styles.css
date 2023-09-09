@@ -1,0 +1,17 @@
+
+/* Estilos personalizados para la página */
+body {
+    background-image: url('night.avif');
+    background-size: cover;
+    background-position: center;
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.9); /* Transparencia */
+}
+#qr-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+.share-button {
+    margin: 10px;
+}
